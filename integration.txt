@@ -1,6 +1,8 @@
 git config --global user.name "da2bit"
 git config --global user.email idada21@gmail.com
 
+*/ add user and password
+
 git clone https://github.com/da2bit/test.git /* repository from github
 git add file.txt
 git status
