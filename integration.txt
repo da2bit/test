@@ -1,5 +1,8 @@
-This is my test integrationThis is my test integrationThis is my test integrationThis is my test integrationThis is my test integration
-This is my test integrationThis is my test integration
-This is my test integration
-This is my test integrationThis is my test integrationThis is my test integration
-This is my test integration
+git config --global user.name "da2bit"
+git config --global user.email idada21@gmail.com
+
+git clone https://github.com/da2bit/test.git /* repository from github
+git add file.txt
+git status
+git commit -m "message" file.txt
+git push -u origin master
