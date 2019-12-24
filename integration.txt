@@ -8,3 +8,6 @@ git add file.txt
 git status
 git commit -m "message" file.txt
 git push -u origin master
+
+git reset --hard <commit hash>
+git reset --hard origin/master
