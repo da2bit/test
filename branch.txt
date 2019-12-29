@@ -1,3 +1,10 @@
-git branch
-git branch feature
-git checkout feature
+git branch // lista todos los branches
+git branch feature // creo feature
+git checkout feature // cambio a feature
+
+// modify hello.html, then
+
+git commit -am "message" hello.html
+git checkout master // cambio a master
+git merge feature // fusiono ambos branches
+git log  / en el branch que quiero ver los cambios
